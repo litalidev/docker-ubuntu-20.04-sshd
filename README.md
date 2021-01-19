@@ -1,5 +1,5 @@
 # docker-ubuntu-20.04-sshd
-A simple ubuntu based docker image with sshd using supervisor
+A simple ubuntu based docker image with sshd using supervisord
 
 To build
 
